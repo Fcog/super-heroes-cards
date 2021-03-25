@@ -1,0 +1,30 @@
+.superheroes-card {
+    padding: 1rem;
+    background-color: rgb(247, 242, 242);
+    border-radius: 1rem;
+}
+
+.superheroes-card__title {
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.superheroes-card__stats {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.superheroes-card__bio {
+    font-size: .5rem;
+}
+
+.superheroes-card--red {
+    color: red;
+}
+
+.superheroes-card--blue {
+    color: blue;
+}
