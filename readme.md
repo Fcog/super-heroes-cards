@@ -10,7 +10,7 @@ Connects to the [Superhero API](https://superheroapi.com/) to get the data.
 
 Add the following shortcode to the Shortcode block.
 
-[[superhero-card hero=`{name of the superhero}`]]
+[superhero-card hero=`{name of the superhero}`]
 
 ## Examples
 
